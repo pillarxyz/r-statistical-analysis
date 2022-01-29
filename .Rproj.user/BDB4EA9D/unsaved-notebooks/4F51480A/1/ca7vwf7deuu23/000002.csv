@@ -1,0 +1,10 @@
+"0","```r
+fisher.test(data$age, data$sex, simulate.p.value = TRUE)
+```"
+"1","
+	Fisher's Exact Test for Count Data with simulated p-value (based on 2000 replicates)
+
+data:  data$age and data$sex
+p-value = 0.0004998
+alternative hypothesis: two.sided
+"
