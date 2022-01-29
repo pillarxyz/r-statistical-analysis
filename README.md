@@ -1,5 +1,7 @@
 # Analyse des donnees
 
+This is an academic project whose objective is to master statistical analysis concepts in R
+
 ## Context
 Cet ensemble de donné est collecté en faisant des analyse voix biomédicales de 42 personnes 
 atteintes de la maladie de Parkinson à un stade précoce recrutées pour le test de six mois et suivie par
