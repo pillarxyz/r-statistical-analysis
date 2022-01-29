@@ -5,7 +5,9 @@ Cet ensemble de donné est collecté en faisant des analyse voix biomédicales d
 atteintes de la maladie de Parkinson à un stade précoce recrutées pour le test de six mois et suivie par
 un dispositif de télésurveillance pour la surveillance à distance de la progression des symptômes. 
 Les enregistrements ont été automatiquement capturés au domicile du patient. 
---------------Description des variables-----------------------------------
+
+## Description des variables
+
 * subject - identifiant de chaque patient
 * age - age de patient
 * sex - sexe de pactient '0' - homme, '1' - femme

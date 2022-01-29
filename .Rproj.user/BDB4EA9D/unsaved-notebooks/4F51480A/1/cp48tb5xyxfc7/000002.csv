@@ -1,9 +1,0 @@
-"0","```r
-bptest(step_model)
-```"
-"1","
-	studentized Breusch-Pagan test
-
-data:  step_model
-BP = 98.563, df = 13, p-value = 3.149e-15
-"
